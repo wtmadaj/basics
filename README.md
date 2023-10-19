@@ -28,8 +28,8 @@ Target a device with verbose logs:
 >flutter run -v -d macos run
 
 See available (running) devices:
->flutter devices 
-<hr>
+>flutter devices
+
 
 # References
 Chat App: https://github.com/andrewjmead/node-course-v3-code
