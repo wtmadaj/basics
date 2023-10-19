@@ -6,7 +6,7 @@
 4. [References](#References)
 
 
-# Running Locally<br>
+# Running Locally
 ## Node
 >nodemon [jsfile]
 
