@@ -29,7 +29,7 @@ See available (running) devices:
 >flutter devices 
 <hr>
 
-# Git: SSH and HTTPS<br>
+# Git: SSH and HTTPS
 ## View SSH folder
 >ls -al ~/.ssh
 
