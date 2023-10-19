@@ -35,3 +35,8 @@ Then:
 
 Show git details for repo
 >git config --list
+
+## References
+- https://github.com/GitCredentialManager/git-credential-manager
+- https://linuxize.com/post/how-to-change-git-remote-url/
+- https://docs.github.com/en/get-started/getting-started-with-git/about-remote-repositories
