@@ -1,7 +1,7 @@
 1. [Running Locally](#RunningLocally)
     - [Node](#Node)
     - [Flutter](#Flutter)
-2. [Git: SSH and HTTPS](#Git:-SSH-and-HTTPS)
+2. [Git: SSH and HTTPS](#GitSSHandHTTPS)
 3. [MongoDB](#MongoDB)
 4. [References](#References)
 
@@ -29,7 +29,7 @@ See available (running) devices:
 >flutter devices 
 <hr>
 
-# Git: SSH and HTTPS
+# Git SSH and HTTPS
 ## View SSH folder
 >ls -al ~/.ssh
 
