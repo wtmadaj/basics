@@ -57,7 +57,7 @@ Initialize repo:
 
 Then create repo in github
 Then:
->git remote add origin https://github.com/wtmadaj/chat-app.git
+>git remote add origin https://github.com/[username]/github-repo-name.git
 >
 >git branch -M main
 >
