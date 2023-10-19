@@ -1,7 +1,7 @@
 1. [Running Locally](#RunningLocally)
     - [Node](#Node)
     - [Flutter](#Flutter)
-2. [Git: SSH and HTTPS](#GitSSHandHTTPS)
+2. [Git: SSH and HTTPS](#Git)
 3. [MongoDB](#MongoDB)
 4. [References](#References)
 
@@ -29,11 +29,11 @@ See available (running) devices:
 >flutter devices 
 <hr>
 
-# Git SSH and HTTPS
+# Git
 ## View SSH folder
 >ls -al ~/.ssh
 
-## tart SSH Agent
+## Start SSH Agent
 >eval "$(ssh-agent -s)"
 
 ## Add Key to Agent
